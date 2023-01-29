@@ -1,6 +1,6 @@
-# DesignSmart
+# DesignSmrt
 
-Text-to-3D Model DesignSmart
+Text-to-3D Model DesignSmrt
 A tool that converts text descriptions into 3D models.
 
 # Key Features
