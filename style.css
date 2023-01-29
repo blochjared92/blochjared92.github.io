@@ -1,0 +1,33 @@
+
+/* CSS Centering Code with the Universal Selector "*" */ 
+
+* {
+
+text-align: center;
+
+}
+
+/*Alternative CSS Centering Code with the "body" Selector*/
+
+body {
+
+text-align: center;
+
+}
+
+/* Styling */
+
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif; 
+  color: #2E475D;    
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
