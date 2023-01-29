@@ -28,4 +28,10 @@ We welcome contributions to this project. Please refer to our CONTRIBUTING.md fi
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-Feel free to reach out to us with any questions or suggestions. Our email address is [insert email here].
+Feel free to reach out to us with any questions or suggestions. 
+
+Our email address is 
+- blochjar@msu.edu
+- tineshmahalingam@gmail.com
+-
+-
