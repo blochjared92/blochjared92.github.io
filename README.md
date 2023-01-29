@@ -4,9 +4,9 @@ Text-to-3D Model DesignSmart
 A tool that converts text descriptions into 3D models.
 
 # Key Features
-Generates 3D models from text descriptions
-Supports different model shapes and sizes
-User-friendly interface
+- Generates 3D models from text descriptions
+- Supports different model shapes and sizes
+- User-friendly interface
 
 # Getting Started
 Clone the repository to your local machine
