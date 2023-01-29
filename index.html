@@ -1,0 +1,52 @@
+
+               <html>
+
+	<head>
+
+		<link href="./style.css" rel="stylesheet" />
+
+
+	</head>
+
+
+	<body>
+
+		<h1>
+Here is your model:</h1>
+
+		
+		<div id="stl_cont" style="width:500px;height:500px;margin:0; border: 5 auto;">
+</div>
+
+
+		<script src="./build/stl_viewer.min.js">
+</script>
+		
+		<script>
+
+			var stl_viewer=new StlViewer
+			(
+				document.getElementById("stl_cont"),
+				{
+					models:
+					[
+						{filename:"/out.stl"}
+					]
+				}
+			);
+		</script>
+
+        <a href="out.stl" download="out.stl">
+Download Model</a>
+
+          
+	</body>
+
+</html>
+ 
+               
+               
+               
+               
+               
+          
