@@ -33,5 +33,3 @@ Feel free to reach out to us with any questions or suggestions.
 Our email address is 
 - blochjar@msu.edu
 - tineshmahalingam@gmail.com
--
--
